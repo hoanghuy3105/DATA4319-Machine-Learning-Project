@@ -1,2 +1,2 @@
 # DATA4319-Machine-Learning-Project
-![1](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.datocms-assets.com%2F14946%2F1590593600-machine-learning-610x413.png&imgrefurl=https%3A%2F%2Fwww.ironhack.com%2Fen%2Fdata-analytics%2Fwhat-is-machine-learning&tbnid=vW3rp-yMTe32qM&vet=12ahUKEwjhy-me_sHvAhURF6wKHTPIDPwQMygPegUIARDtAQ..i&docid=ZOZ2LNBz92M02M&w=610&h=413&q=machine%20learning&ved=2ahUKEwjhy-me_sHvAhURF6wKHTPIDPwQMygPegUIARDtAQ)
+![1](https://www.datocms-assets.com/14946/1590593600-machine-learning-610x413.png)
