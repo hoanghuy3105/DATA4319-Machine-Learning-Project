@@ -3,7 +3,7 @@
 
 Statistical & Machine Learning (DATA 4319) is a senior level data science course blends the predictive perspective of statistical pattern recognition as well as the algorithmic perspectives of machine learning taught at the University of Houston-Downtown.
 
-## Instructor:##
+## Instructor:
 - Randy Davila, Ph.D.
 - Assistant Professor of Data Science
 - Department of Mathematics and Statistics
