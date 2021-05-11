@@ -3,6 +3,8 @@
 
 Statistical & Machine Learning (DATA 4319) is a senior level data science course blends the predictive perspective of statistical pattern recognition as well as the algorithmic perspectives of machine learning taught at the University of Houston-Downtown.
 
+The course consists of 10 machine learning projects that implemented in Python and Julia.
+
 ## Instructor:
 - Randy Davila, Ph.D.
 - Assistant Professor of Data Science
@@ -21,3 +23,5 @@ Unsupervised learning is a machine learning technique, where you do not need to 
 
 Unsupervised learning algorithms allow you to perform more complex processing tasks compared to supervised learning. Although, unsupervised learning can be more unpredictable compared with other natural learning deep learning and reinforcement learning methods.
 
+### Acknowledgement
+I would like to thank you Dr. Davila for his helpfully informative lectures during entire Spring 2021 semester. 
